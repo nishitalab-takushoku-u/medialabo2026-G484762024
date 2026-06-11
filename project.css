@@ -1,0 +1,11 @@
+h1{
+    border: 5px solid #040404;
+    background: black;
+    color: white;
+}
+body{
+    background-color: azure;
+}
+ol{
+    border: 3px solid red;
+}
