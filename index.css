@@ -9,7 +9,9 @@ h3{
     border: 3px solid black;
     background: rgb(198, 197, 197);
 }
-
+p{
+  border: 3px solid black;
+}
 header{
     text-align: center;
     grid-column: 1 / 3;
