@@ -14,7 +14,13 @@ function print(data) {
   
   }
 }
-
+// 宿題宿題4-1: 検索欄を設置する（プロジェクト課題）
+let a = document.querySelector('input#kensaku');
+function kensaku(){
+  console.log(a.value);
+}
+let b = document.querySelector('button#print');
+b.addEventListener('click',kensaku);
 // 課題5-1 の関数 printDom() はここに記述すること
 function printDom(data) {
 

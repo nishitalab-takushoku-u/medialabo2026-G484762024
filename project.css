@@ -3,6 +3,18 @@ h1{
     background: black;
     color: white;
 }
+input{
+    margin-top: 0px;
+    border-top-width: 2px;
+    border-top-style: solid;
+    width: 200px;
+    height: 40px;
+    padding-top: 1px;
+}
+button{
+    width: 62px;
+    height: 46px;
+}
 body{
     background-color: azure;
 }
